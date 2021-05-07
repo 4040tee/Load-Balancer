@@ -1,6 +1,5 @@
 # Assignment 4 Client
 # Tabish Jabir
-# Taken from sample client for Assignment 2
 # Changes: new pathway created if GET request is 301 Permanently Moved
 
 import socket
