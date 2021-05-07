@@ -1,4 +1,4 @@
-# Assignment 4 Load Balancer
+# Load Balancer
 # Tabish Jabir
 # Heavily Modified Assignment 2 Server Sample
 
