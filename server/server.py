@@ -1,4 +1,4 @@
-#Assignment 2 Sample Server
+#Server
 
 import socket
 import os
