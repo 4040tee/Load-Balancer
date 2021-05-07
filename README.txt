@@ -1,6 +1,5 @@
-Instructions for Assignment # 4
+Instructions 
 By: Tabish Jabir
-CS 3357
 
 server
 ------
