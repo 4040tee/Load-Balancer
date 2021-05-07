@@ -1,6 +1,5 @@
 # Load Balancer
 # Tabish Jabir
-# Heavily Modified Assignment 2 Server Sample
 
 import socket
 import os
